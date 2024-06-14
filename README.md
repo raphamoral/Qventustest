@@ -133,7 +133,8 @@ Warning : To get the list of parts you shoulf post something first.
 
 ````
 ## Post one part
-<h3 style="color:orange">**POST ```/api/parts```**</h3>
+**<h3 style="color:orange">POST ```/api/parts```</h3>**
+Request Body:
 ```json
 [{
     "name": "New Part",
